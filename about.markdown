@@ -33,4 +33,7 @@ permalink: /
 * Protect international scholar rights – our membership and the academic workforce come from locations all around the world and are part of a global research community, and we will not allow xenophobia to be used as a tool to divide us.
 * Defend academic research and its funding in the face of federal attacks – grad workers do critical research that contributes to the public interest
 * Strengthen and expand our connections with other campus organizations and unions across higher ed to weather political attacks on organized students and workers.
-* Chart a vision for academia 
+* Chart a vision for academia
+
+
+SGWU RED is not affiliated with or endorsed by UE Local 1043 Stanford SGWU.
