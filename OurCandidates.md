@@ -42,7 +42,7 @@ As an Area Chief Steward for MICE, my goal is to make sure that every graduate s
 <br>
 Although there are many challenges ahead, I am confident that working together, we can build a stronger SGWU that helps all graduate students at Stanford thrive. I look forward to building to this vision with everyone in the union. </p>
 
-## Area Chief Steward: MSCE, Chad Serrao ##
+## **Area Chief Steward: MSCE, Chad Serrao** ##
 <p align="justify"> My name is Chad Serrao and I am a 3rd year PhD Candidate in Materials Science and Engineering. I am a big believer in people and optimistic about the prospect of working together to make something that can serve us all. I was an elected member of the committee responsible for drafting our union’s constitution and now I am running to serve student workers in the Chemical Engineering and Materials Science and Engineering Departments as the Chief Area Steward.<br>
 <br>
 When we won ourselves a union, we won ourselves the ability to have workplace democracy. Now is the time for us to build this together. As Chief Area Steward I want to work with my fellow graduate student workers to build-up the infrastructure required to have a robust and enduring democratic union that can understand and advocate for our needs as workers and as people.<br>
@@ -51,13 +51,13 @@ Towards this end, I would like to propose four objectives for this year as part 
 <br>
 In this election, I am running with the Stanford Representation, Equity, and Democracy (RED) slate on a shared vision and theory of action for our union. If what I have written here today has resonated with you, I encourage you to vote for me and for Stanford RED. I hope to be working with you soon to build our union together. </p>
 
-## Area Chief Steward, Social Sciences, Elizabeth Fetterolf ##
+## **Area Chief Steward, Social Sciences, Elizabeth Fetterolf** ##
 <p align="justify"> My name is Elizabeth, and I am a second year PhD student in the department of Communication. I will be running on the Representation, Equity, and Democracy (RED) slate. I have been involved in the union since my arrival at Stanford, being at the forefront of organizing my department as well as in the Social Sciences and Humanities Area, and occasionally serving as Area Co-Chair. During the strike campaign, I was a Strike Captain and played a vital role in organizing, particularly my department. I worked closely with other organizers across the social sciences. I was active in gathering information about labor violations, including overwork, unreasonable TA loads, and withheld funding that affect too many workers in our area. I am running for Chief Steward to continue this important work and help hold our departments accountable.<br>
 <br>
-As a member of the Executive Board, I hope to help SGWU move towards a more democratic, member-driven, and politically engaged union. At a recent strategy retreat that I co-organized, a group of workers articulated a vision for the future of our area. I share many of commitments articulated there including:
+As a member of the Executive Board, I hope to help SGWU move towards a more democratic, member-driven, and politically engaged union. At a recent strategy retreat that I co-organized, a group of workers articulated a vision for the future of our area. I share many of commitments articulated there including: </p>
 * working towards the inclusion of fellows as members of our bargaining unit
 * expanding the union’s social infrastructure
 * continuing to build solidarity with other workers at Stanford, such as service workers under SIEU Local 2007
 * recognizing the union as a political body and as such advocating for Palestine solidarity work and the protection of international workers and trans workers under attack from the current administration.<br>
 <br>
-Times are dark and we need to look out for one another. Onwards to the next chapter of SGWU! </p>
+Times are dark and we need to look out for one another. Onwards to the next chapter of SGWU! 
