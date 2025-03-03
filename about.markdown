@@ -3,7 +3,6 @@ layout: page
 title: Our Platform
 permalink: /
 ---
-<p align="justify"> Your Text </p>
 
 ### **SGWU RED (Representation, Equity, and Democracy) Platform**
 
