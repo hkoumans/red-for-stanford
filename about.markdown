@@ -4,7 +4,7 @@ title: Our Platform
 permalink: /
 ---
 
-### **SGWU RED (Representation, Equity, and Democracy) Platform**
+# **SGWU RED (Representation, Equity, and Democracy) Platform**
 
 ## **Building Collective Power Through Mass Participation**
 Mass collective participation is the source of our power and how we won our first contract, and what we win in bargaining is a reflection of that power. We will likewise need to build the foundations now towards mass collective participation to enforce our first contract and to win an even stronger second contract. In 2025, we aim to:
