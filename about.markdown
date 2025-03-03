@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Platform
+title: Our Platform
 permalink: /
 ---
 
