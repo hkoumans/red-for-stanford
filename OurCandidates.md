@@ -1,5 +1,5 @@
 ---
 title: Our Candidates
-layout: template
+layout: page
 filename: NAME OF THIS .md FILE HERE
 --- 
