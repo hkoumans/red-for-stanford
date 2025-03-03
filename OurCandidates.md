@@ -59,5 +59,4 @@ As a member of the Executive Board, I hope to help SGWU move towards a more demo
 * expanding the union’s social infrastructure
 * continuing to build solidarity with other workers at Stanford, such as service workers under SIEU Local 2007
 * recognizing the union as a political body and as such advocating for Palestine solidarity work and the protection of international workers and trans workers under attack from the current administration. <br>
-<br>
 <p align="justify"> Times are dark and we need to look out for one another. Onwards to the next chapter of SGWU! </p>
