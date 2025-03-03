@@ -1,3 +1,4 @@
+---
 # SGWU RED (Representation, Equity, and Democracy) Platform
 
 ### **Building Collective Power Through Mass Participation**
@@ -28,3 +29,6 @@
 * Defend academic research and its funding in the face of federal attacks – grad workers do critical research that contributes to the public interest
 * Strengthen and expand our connections with other campus organizations and unions across higher ed to weather political attacks on organized students and workers.
 * Chart a vision for academia 
+
+layout: home
+---
