@@ -36,4 +36,4 @@ permalink: /
 * Chart a vision for academia
 
 
-SGWU RED is not affiliated with or endorsed by UE Local 1043 Stanford SGWU.
+**SGWU RED is not affiliated with or endorsed by UE Local 1043 Stanford SGWU.**
