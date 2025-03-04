@@ -21,7 +21,7 @@
 title: RED for Stanford
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Official platform of the RED for Stanford SGWU slate
+  Written by the RED for Stanford election slate. RED is not affiliated with or endorsed by UE Local 1043 Stanford SGWU.
 baseurl: "/red-for-stanford" # the subpath of your site, e.g. /blog
 url: "https://hkoumans.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
