@@ -2,6 +2,7 @@
 layout: page
 title: Platform
 permalink: /
+header: We are a group of graduate workers at Stanford running for election as the RED (Representation, Equity, and Democracy) slate because we believe true representation, real equity, and deep democracy can only be achieved through mass participation. In this time of great political uncertainty, we as graduate workers at Stanford must come together to ensure we have a democratic voice in shaping our working and learning conditions.
 ---
 
 # SGWU RED (Representation, Equity, and Democracy) Platform
